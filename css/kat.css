@@ -1,0 +1,24 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+	color: #337ab7;
+	display: inline-block;
+    vertical-align: middle;
+    float: none;
+    height: 100%;
+    padding-top: 15%;
+    min-width: 100%;
+}
+
+.container h1 {
+	font-size: 45px;
+}
+
+.row {
+	padding-top: 5%;
+}
