@@ -6,13 +6,13 @@ body {
 }
 
 .container {
-	color: #337ab7;
+	color: #000;
 	display: inline-block;
-    vertical-align: middle;
-    float: none;
-    height: 100%;
-    padding-top: 15%;
-    min-width: 100%;
+  vertical-align: middle;
+  float: none;
+  height: 100%;
+  padding-top: 15%;
+  min-width: 100%;
 }
 
 .container h1 {
