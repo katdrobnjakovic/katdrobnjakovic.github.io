@@ -11,7 +11,7 @@ body {
   vertical-align: middle;
   float: none;
   height: 100%;
-  padding-top: 15%;
+  padding-top: 5%;
   min-width: 100%;
 }
 
@@ -20,9 +20,11 @@ body {
 }
 
 .row {
-	padding-top: 5%;
+	padding: 5%;
 }
 
 .vcenter {
   padding-top: 1%;
 }
+
+
